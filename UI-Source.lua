@@ -58,10 +58,10 @@ local library = {
         ['ping'] = 0;
     };
     images = {
-        ['gradientp90'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/gradient90.png';
-        ['gradientp45'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/gradient45.png';
-        ['colorhue'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/lgbtqshit.png';
-        ['colortrans'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/trans.png';
+        ['gradientp90'] = 'https://raw.githubusercontent.com/paulspaceranger/UI-LIB/main/pics/gradient90.png';
+        ['gradientp45'] = 'https://raw.githubusercontent.com/paulspaceranger/UI-LIB/main/pics/gradient45.png';
+        ['colorhue'] = 'https://raw.githubusercontent.com/paulspaceranger/UI-LIB/main/pics/rainbow.png';
+        ['colortrans'] = 'https://raw.githubusercontent.com/paulspaceranger/UI-LIB/main/pics/trans.png';
     };
     numberStrings = {['Zero'] = 0, ['One'] = 1, ['Two'] = 2, ['Three'] = 3, ['Four'] = 4, ['Five'] = 5, ['Six'] = 6, ['Seven'] = 7, ['Eight'] = 8, ['Nine'] = 9};
     signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/paulspaceranger/UI-LIB/refs/heads/main/Signal.lua'))();
